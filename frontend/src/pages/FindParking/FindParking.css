@@ -1,0 +1,120 @@
+.find-parking h1 {
+  margin-bottom: 4px;
+}
+
+.find-parking-search {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-pill);
+  padding: 8px 8px 8px 20px;
+  margin-bottom: var(--space-4);
+  box-shadow: var(--shadow-sm);
+}
+
+.find-parking-search svg:first-child {
+  color: var(--text-faint);
+}
+
+.find-parking-search input {
+  flex: 1;
+  border: none;
+  outline: none;
+  padding: 10px 0;
+  font-size: 0.95rem;
+}
+
+.detected-location {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin: -8px 0 var(--space-4) 4px;
+}
+
+.location-mode-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--primary-light);
+  color: var(--primary-dark);
+  font-weight: 700;
+  font-size: 0.78rem;
+  padding: 4px 12px;
+  border-radius: var(--radius-pill);
+}
+
+.find-parking-filters {
+  display: flex;
+  gap: var(--space-3);
+  margin-bottom: var(--space-4);
+}
+
+.find-parking-filters .input {
+  width: auto;
+  min-width: 160px;
+  padding: 10px 14px;
+}
+
+.location-warning {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  background: var(--warning-bg);
+  color: #92620a;
+  padding: var(--space-3) var(--space-4);
+  border-radius: var(--radius-md);
+  margin-bottom: var(--space-4);
+  font-size: 0.88rem;
+}
+
+.location-retry-btn {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-left: auto;
+  background: #fff;
+  border: 1px solid #e8c876;
+  color: #92620a;
+  font-weight: 600;
+  font-size: 0.82rem;
+  padding: 6px 14px;
+  border-radius: var(--radius-pill);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.location-retry-btn:hover {
+  background: #fdf3dc;
+}
+
+.find-parking-results {
+  margin-top: var(--space-5);
+}
+
+.ranking-hint {
+  font-size: 0.82rem;
+  color: var(--text-faint);
+  margin: 0 0 var(--space-3);
+}
+
+.view-more-btn {
+  display: block;
+  margin: var(--space-5) auto 0;
+  padding-left: var(--space-6);
+  padding-right: var(--space-6);
+}
+
+.more-parking-grid {
+  margin-top: var(--space-4);
+}
+
+@media (max-width: 700px) {
+  .find-parking-search {
+    flex-wrap: wrap;
+    border-radius: var(--radius-md);
+  }
+}

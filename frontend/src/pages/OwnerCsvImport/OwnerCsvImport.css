@@ -1,0 +1,117 @@
+.owner-csv-card {
+  padding: var(--space-6);
+  margin-top: var(--space-5);
+}
+
+.owner-csv-card h2 {
+  font-size: 1.05rem;
+  margin-bottom: 4px;
+}
+
+.owner-csv-card-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--space-4);
+  flex-wrap: wrap;
+}
+
+.owner-csv-card-head .btn {
+  flex-shrink: 0;
+}
+
+.owner-csv-requirements {
+  margin-top: var(--space-4);
+  padding: var(--space-4);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  background: var(--bg);
+}
+
+.owner-csv-requirements-table {
+  overflow-x: auto;
+}
+
+.owner-csv-requirements-table table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+}
+
+.owner-csv-requirements-table th {
+  text-align: left;
+  padding: var(--space-2) var(--space-3);
+  color: var(--text-muted);
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+}
+
+.owner-csv-requirements-table td {
+  padding: var(--space-2) var(--space-3);
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+}
+
+.owner-csv-requirements-table code {
+  font-size: 0.82rem;
+  background: var(--primary-light);
+  color: var(--primary-dark);
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.owner-csv-requirements-notes {
+  margin: var(--space-3) 0;
+  padding-left: 1.2em;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.owner-csv-requirements-notes li {
+  margin-bottom: var(--space-2);
+}
+
+.owner-csv-upload-row {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  margin-top: var(--space-4);
+  flex-wrap: wrap;
+}
+
+.owner-csv-success {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  color: var(--success);
+  font-weight: 600;
+  margin-top: var(--space-4);
+}
+
+.owner-csv-errors {
+  margin-top: var(--space-4);
+  max-height: 260px;
+  overflow-y: auto;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+}
+
+.owner-csv-errors table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+}
+
+.owner-csv-errors th {
+  position: sticky;
+  top: 0;
+  background: var(--danger-bg);
+  color: var(--danger);
+  text-align: left;
+  padding: var(--space-2) var(--space-3);
+}
+
+.owner-csv-errors td {
+  padding: var(--space-2) var(--space-3);
+  border-top: 1px solid var(--border);
+}

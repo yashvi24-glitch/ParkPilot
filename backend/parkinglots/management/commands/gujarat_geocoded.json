@@ -1,0 +1,1465 @@
+[
+  {
+    "entry": [
+      "Sabarmati Riverfront Parking",
+      "Sabarmati Riverfront, Ahmedabad, Gujarat",
+      "Ahmedabad",
+      "Ahmedabad",
+      "tourist_attraction",
+      "Car, Bike",
+      "Open-air parking along the Sabarmati Riverfront promenade, popular with evening visitors and joggers.",
+      "CCTV, Security, Lighting",
+      20,
+      150,
+      1
+    ],
+    "coords": [
+      23.0192844,
+      72.5736364
+    ]
+  },
+  {
+    "entry": [
+      "Kankaria Lake Parking",
+      "Kankaria Lake, Ahmedabad, Gujarat",
+      "Ahmedabad",
+      "Ahmedabad",
+      "tourist_attraction",
+      "Car, Bike",
+      "Large public parking lot serving visitors to Kankaria Lake and the adjoining zoo and amusement park.",
+      "CCTV, Security, Restroom",
+      20,
+      150,
+      1
+    ],
+    "coords": [
+      23.0061434,
+      72.5995212
+    ]
+  },
+  {
+    "entry": [
+      "SVPI Airport Parking",
+      "Sardar Vallabhbhai Patel International Airport, Ahmedabad, Gujarat",
+      "Ahmedabad",
+      "Ahmedabad",
+      "airport",
+      "Car, Bike",
+      "Multi-level covered parking at Ahmedabad's Sardar Vallabhbhai Patel International Airport terminal.",
+      "CCTV, Security, Covered, EV Charging, Valet",
+      40,
+      500,
+      4
+    ],
+    "coords": [
+      23.0759257,
+      72.630564
+    ]
+  },
+  {
+    "entry": [
+      "Kalupur Railway Station Parking",
+      "Ahmedabad Junction Railway Station, Kalupur, Ahmedabad, Gujarat",
+      "Ahmedabad",
+      "Ahmedabad",
+      "railway_station",
+      "Car, Bike",
+      "Park-and-ride facility right outside Ahmedabad's main Kalupur railway station.",
+      "CCTV, Security, Lighting",
+      15,
+      100,
+      2
+    ],
+    "coords": [
+      23.0272668,
+      72.6015974
+    ]
+  },
+  {
+    "entry": [
+      "One World West Mall Parking",
+      "One World West Mall, Ahmedabad, Gujarat",
+      "Ahmedabad",
+      "Ahmedabad",
+      "mall",
+      "Car, Bike",
+      "Multi-level covered mall parking with direct access, formerly AlphaOne Mall.",
+      "CCTV, Security, Covered, EV Charging",
+      30,
+      200,
+      3
+    ],
+    "coords": [
+      23.0400861,
+      72.5290418
+    ]
+  },
+  {
+    "entry": [
+      "Himalaya Mall Parking",
+      "Himalaya Mall, Ahmedabad, Gujarat",
+      "Ahmedabad",
+      "Ahmedabad",
+      "mall",
+      "Car, Bike",
+      "Covered multi-level parking serving Himalaya Mall on Drive-In Road.",
+      "CCTV, Security, Covered",
+      25,
+      180,
+      2
+    ],
+    "coords": [
+      23.0468119,
+      72.5309568
+    ]
+  },
+  {
+    "entry": [
+      "Sabarmati Ashram Parking",
+      "Sabarmati Ashram, Ahmedabad, Gujarat",
+      "Ahmedabad",
+      "Ahmedabad",
+      "tourist_attraction",
+      "Car, Bike",
+      "Visitor parking for Sabarmati Ashram (Gandhi Ashram), a major heritage tourist site.",
+      "Security, Shaded",
+      15,
+      100,
+      1
+    ],
+    "coords": [
+      23.0601652,
+      72.5806382
+    ]
+  },
+  {
+    "entry": [
+      "Civil Hospital Ahmedabad Parking",
+      "Civil Hospital, Asarwa, Ahmedabad, Gujarat",
+      "Ahmedabad",
+      "Ahmedabad",
+      "hospital",
+      "Car, Bike",
+      "Dedicated visitor and patient parking at Ahmedabad Civil Hospital campus.",
+      "CCTV, Security, Wheelchair Access",
+      10,
+      80,
+      1
+    ],
+    "coords": [
+      23.0472488,
+      72.6088046
+    ]
+  },
+  {
+    "entry": [
+      "Law Garden Parking",
+      "Law Garden, Ahmedabad, Gujarat",
+      "Ahmedabad",
+      "Ahmedabad",
+      "municipal",
+      "Car, Bike",
+      "Municipal parking lot near Law Garden, close to the popular night market.",
+      "Lighting, Security",
+      15,
+      100,
+      1
+    ],
+    "coords": [
+      23.0263944,
+      72.5610565
+    ]
+  },
+  {
+    "entry": [
+      "Manek Chowk Parking",
+      "Manek Chowk, Ahmedabad, Gujarat",
+      "Ahmedabad",
+      "Ahmedabad",
+      "public",
+      "Bike, Car",
+      "Public parking serving the historic Manek Chowk market in the old city.",
+      "Lighting",
+      10,
+      60,
+      1
+    ],
+    "coords": [
+      23.0231798,
+      72.5889516
+    ]
+  },
+  {
+    "entry": [
+      "Science City Parking",
+      "Gujarat Science City, Ahmedabad, Gujarat",
+      "Ahmedabad",
+      "Ahmedabad",
+      "tourist_attraction",
+      "Car, Bike",
+      "Large visitor parking area at Gujarat Science City.",
+      "CCTV, Security, Shaded",
+      20,
+      150,
+      1
+    ],
+    "coords": [
+      23.077854,
+      72.494798
+    ]
+  },
+  {
+    "entry": [
+      "CG Road Smart Parking",
+      "CG Road, Ahmedabad, Gujarat",
+      "Ahmedabad",
+      "Ahmedabad",
+      "smart",
+      "Car, Bike",
+      "Sensor-based smart parking bays along CG Road with real-time availability tracking.",
+      "CCTV, Smart Sensors, App Payment",
+      30,
+      200,
+      1
+    ],
+    "coords": [
+      23.0260111,
+      72.5567179
+    ]
+  },
+  {
+    "entry": [
+      "Surat Airport Parking",
+      "Surat Airport, Surat, Gujarat",
+      "Surat",
+      "Surat",
+      "airport",
+      "Car, Bike",
+      "Covered multi-level parking at Surat International Airport.",
+      "CCTV, Security, Covered, EV Charging",
+      40,
+      450,
+      3
+    ],
+    "coords": [
+      21.1168313,
+      72.7422653
+    ]
+  },
+  {
+    "entry": [
+      "Surat Railway Station Parking",
+      "Surat Railway Station, Surat, Gujarat",
+      "Surat",
+      "Surat",
+      "railway_station",
+      "Car, Bike",
+      "Park-and-ride facility outside Surat's main railway station.",
+      "CCTV, Security, Lighting",
+      15,
+      100,
+      2
+    ],
+    "coords": [
+      21.2050337,
+      72.8407079
+    ]
+  },
+  {
+    "entry": [
+      "VR Surat Mall Parking",
+      "VR Surat Mall, Surat, Gujarat",
+      "Surat",
+      "Surat",
+      "mall",
+      "Car, Bike",
+      "Multi-level covered parking at VR Surat shopping and entertainment mall.",
+      "CCTV, Security, Covered",
+      30,
+      200,
+      3
+    ],
+    "coords": [
+      21.1581677,
+      72.7696204
+    ]
+  },
+  {
+    "entry": [
+      "Dumas Beach Parking",
+      "Dumas Beach, Surat, Gujarat",
+      "Surat",
+      "Surat",
+      "tourist_attraction",
+      "Car, Bike",
+      "Open parking area serving visitors to the popular Dumas Beach.",
+      "Lighting, Security",
+      20,
+      120,
+      1
+    ],
+    "coords": [
+      21.0878845,
+      72.712561
+    ]
+  },
+  {
+    "entry": [
+      "Surat Diamond Bourse Parking",
+      "Surat Diamond Bourse, Surat, Gujarat",
+      "Surat",
+      "Surat",
+      "private",
+      "Car, Bike",
+      "Private multi-level parking facility at the Surat Diamond Bourse complex.",
+      "CCTV, Security, Covered, Valet",
+      35,
+      250,
+      4
+    ],
+    "coords": [
+      21.1098906,
+      72.7950731
+    ]
+  },
+  {
+    "entry": [
+      "New Civil Hospital Surat Parking",
+      "New Civil Hospital, Surat, Gujarat",
+      "Surat",
+      "Surat",
+      "hospital",
+      "Car, Bike",
+      "Patient and visitor parking at New Civil Hospital, Surat.",
+      "CCTV, Security, Wheelchair Access",
+      10,
+      80,
+      1
+    ],
+    "coords": [
+      21.1795987,
+      72.8198565
+    ]
+  },
+  {
+    "entry": [
+      "Rander Road Public Parking",
+      "Rander Road, Surat, Gujarat",
+      "Surat",
+      "Surat",
+      "public",
+      "Car, Bike",
+      "Public parking area along busy Rander Road.",
+      "Lighting",
+      10,
+      60,
+      1
+    ],
+    "coords": [
+      21.2160703,
+      72.799745
+    ]
+  },
+  {
+    "entry": [
+      "Surat Smart Parking - Ring Road",
+      "Ring Road, Surat, Gujarat",
+      "Surat",
+      "Surat",
+      "smart",
+      "Car, Bike",
+      "Sensor-enabled smart parking bays along Surat Ring Road.",
+      "CCTV, Smart Sensors, App Payment",
+      25,
+      180,
+      1
+    ],
+    "coords": [
+      21.1986044,
+      72.8426916
+    ]
+  },
+  {
+    "entry": [
+      "Vadodara Airport Parking",
+      "Vadodara Airport, Vadodara, Gujarat",
+      "Vadodara",
+      "Vadodara",
+      "airport",
+      "Car, Bike",
+      "Covered parking at Vadodara Airport terminal.",
+      "CCTV, Security, Covered",
+      35,
+      400,
+      2
+    ],
+    "coords": [
+      22.3367527,
+      73.2270971
+    ]
+  },
+  {
+    "entry": [
+      "Vadodara Railway Station Parking",
+      "Vadodara Railway Station, Vadodara, Gujarat",
+      "Vadodara",
+      "Vadodara",
+      "railway_station",
+      "Car, Bike",
+      "Park-and-ride facility outside Vadodara Junction railway station.",
+      "CCTV, Security, Lighting",
+      15,
+      100,
+      2
+    ],
+    "coords": [
+      22.3110728,
+      73.1808008
+    ]
+  },
+  {
+    "entry": [
+      "Inorbit Mall Vadodara Parking",
+      "Inorbit Mall, Vadodara, Gujarat",
+      "Vadodara",
+      "Vadodara",
+      "mall",
+      "Car, Bike",
+      "Multi-level covered parking at Inorbit Mall, Vadodara.",
+      "CCTV, Security, Covered",
+      30,
+      200,
+      3
+    ],
+    "coords": [
+      22.3219443,
+      73.1654796
+    ]
+  },
+  {
+    "entry": [
+      "Sayaji Baug Parking",
+      "Sayaji Baug, Vadodara, Gujarat",
+      "Vadodara",
+      "Vadodara",
+      "tourist_attraction",
+      "Car, Bike",
+      "Public parking serving Sayaji Baug garden, zoo and museum complex.",
+      "Security, Shaded",
+      15,
+      100,
+      1
+    ],
+    "coords": [
+      22.3137775,
+      73.1914432
+    ]
+  },
+  {
+    "entry": [
+      "Sursagar Lake Municipal Parking",
+      "Sursagar Lake, Vadodara, Gujarat",
+      "Vadodara",
+      "Vadodara",
+      "municipal",
+      "Car, Bike",
+      "Municipal parking near Sursagar Lake in central Vadodara.",
+      "Lighting, Security",
+      15,
+      100,
+      1
+    ],
+    "coords": [
+      22.3007379,
+      73.2038339
+    ]
+  },
+  {
+    "entry": [
+      "SSG Hospital Vadodara Parking",
+      "Sir Sayajirao General Hospital, Vadodara, Gujarat",
+      "Vadodara",
+      "Vadodara",
+      "hospital",
+      "Car, Bike",
+      "Patient and visitor parking at SSG Hospital, Vadodara.",
+      "CCTV, Security, Wheelchair Access",
+      10,
+      80,
+      1
+    ],
+    "coords": [
+      22.309047,
+      73.1851032
+    ]
+  },
+  {
+    "entry": [
+      "Vadodara Smart Parking - Alkapuri",
+      "Alkapuri, Vadodara, Gujarat",
+      "Vadodara",
+      "Vadodara",
+      "smart",
+      "Car, Bike",
+      "Sensor-based smart parking bays in the Alkapuri commercial district.",
+      "CCTV, Smart Sensors, App Payment",
+      25,
+      180,
+      1
+    ],
+    "coords": [
+      22.3101726,
+      73.1756893
+    ]
+  },
+  {
+    "entry": [
+      "Rajkot Airport Parking",
+      "Rajkot Hirasar Airport, Rajkot, Gujarat",
+      "Rajkot",
+      "Rajkot",
+      "airport",
+      "Car, Bike",
+      "Covered parking at Rajkot's Hirasar international airport.",
+      "CCTV, Security, Covered",
+      35,
+      400,
+      2
+    ],
+    "coords": [
+      22.3823288,
+      71.0380962
+    ]
+  },
+  {
+    "entry": [
+      "Rajkot Railway Station Parking",
+      "Rajkot Railway Station, Rajkot, Gujarat",
+      "Rajkot",
+      "Rajkot",
+      "railway_station",
+      "Car, Bike",
+      "Park-and-ride facility outside Rajkot railway station.",
+      "CCTV, Security, Lighting",
+      15,
+      100,
+      2
+    ],
+    "coords": [
+      22.3124309,
+      70.80255
+    ]
+  },
+  {
+    "entry": [
+      "Crystal Mall Rajkot Parking",
+      "Crystal Mall, Rajkot, Gujarat",
+      "Rajkot",
+      "Rajkot",
+      "mall",
+      "Car, Bike",
+      "Covered multi-level parking at Crystal Mall, Rajkot.",
+      "CCTV, Security, Covered",
+      25,
+      180,
+      2
+    ],
+    "coords": [
+      22.2797714,
+      70.7631838
+    ]
+  },
+  {
+    "entry": [
+      "Rajkot Race Course Parking",
+      "Race Course Ring Road, Rajkot, Gujarat",
+      "Rajkot",
+      "Rajkot",
+      "public",
+      "Car, Bike",
+      "Public parking around the Race Course Ring Road recreational area.",
+      "Lighting, Security",
+      15,
+      100,
+      1
+    ],
+    "coords": [
+      22.3047442,
+      70.7918854
+    ]
+  },
+  {
+    "entry": [
+      "Rajkot Civil Hospital Parking",
+      "Rajkot Civil Hospital, Rajkot, Gujarat",
+      "Rajkot",
+      "Rajkot",
+      "hospital",
+      "Car, Bike",
+      "Patient and visitor parking at Rajkot Civil Hospital.",
+      "CCTV, Security, Wheelchair Access",
+      10,
+      80,
+      1
+    ],
+    "coords": [
+      22.8159425,
+      70.8316013
+    ]
+  },
+  {
+    "entry": [
+      "Rajkot Smart Parking - Yagnik Road",
+      "Yagnik Road, Rajkot, Gujarat",
+      "Rajkot",
+      "Rajkot",
+      "smart",
+      "Car, Bike",
+      "Sensor-enabled smart parking bays along Yagnik Road.",
+      "CCTV, Smart Sensors, App Payment",
+      20,
+      150,
+      1
+    ],
+    "coords": [
+      22.2917118,
+      70.7925969
+    ]
+  },
+  {
+    "entry": [
+      "Bhavnagar Railway Station Parking",
+      "Bhavnagar Railway Station, Bhavnagar, Gujarat",
+      "Bhavnagar",
+      "Bhavnagar",
+      "railway_station",
+      "Car, Bike",
+      "Park-and-ride facility outside Bhavnagar railway station.",
+      "CCTV, Security",
+      12,
+      80,
+      1
+    ],
+    "coords": [
+      21.7808642,
+      72.1413236
+    ]
+  },
+  {
+    "entry": [
+      "Bhavnagar Airport Parking",
+      "Bhavnagar Airport, Bhavnagar, Gujarat",
+      "Bhavnagar",
+      "Bhavnagar",
+      "airport",
+      "Car, Bike",
+      "Parking at Bhavnagar Airport terminal.",
+      "CCTV, Security, Covered",
+      30,
+      300,
+      1
+    ],
+    "coords": [
+      21.7528163,
+      72.186978
+    ]
+  },
+  {
+    "entry": [
+      "Gandhi Smruti Bhavnagar Parking",
+      "Gandhi Smruti, Bhavnagar, Gujarat",
+      "Bhavnagar",
+      "Bhavnagar",
+      "tourist_attraction",
+      "Car, Bike",
+      "Visitor parking for the Gandhi Smruti museum and gardens in Bhavnagar.",
+      "Security, Shaded",
+      15,
+      100,
+      1
+    ],
+    "coords": [
+      21.7718836,
+      72.1416449
+    ]
+  },
+  {
+    "entry": [
+      "Bhavnagar Central Mall Parking",
+      "Central Mall, Bhavnagar, Gujarat",
+      "Bhavnagar",
+      "Bhavnagar",
+      "mall",
+      "Car, Bike",
+      "Covered parking at Bhavnagar's Central Mall.",
+      "CCTV, Security, Covered",
+      20,
+      150,
+      2
+    ],
+    "coords": [
+      21.7563515,
+      72.1441734
+    ]
+  },
+  {
+    "entry": [
+      "Jamnagar Airport Parking",
+      "Jamnagar Airport, Jamnagar, Gujarat",
+      "Jamnagar",
+      "Jamnagar",
+      "airport",
+      "Car, Bike",
+      "Parking at Jamnagar Airport terminal.",
+      "CCTV, Security, Covered",
+      30,
+      300,
+      1
+    ],
+    "coords": [
+      22.4668353,
+      70.0070808
+    ]
+  },
+  {
+    "entry": [
+      "Jamnagar Railway Station Parking",
+      "Jamnagar Railway Station, Jamnagar, Gujarat",
+      "Jamnagar",
+      "Jamnagar",
+      "railway_station",
+      "Car, Bike",
+      "Park-and-ride facility outside Jamnagar railway station.",
+      "CCTV, Security",
+      12,
+      80,
+      1
+    ],
+    "coords": [
+      22.4930279,
+      70.0535096
+    ]
+  },
+  {
+    "entry": [
+      "Bala Hanuman Temple Parking",
+      "Bala Hanuman Temple, Jamnagar, Gujarat",
+      "Jamnagar",
+      "Jamnagar",
+      "tourist_attraction",
+      "Car, Bike",
+      "Visitor parking near the Bala Hanuman Temple on Lakhota Lake.",
+      "Security, Lighting",
+      10,
+      80,
+      1
+    ],
+    "coords": [
+      22.4626087,
+      70.0713656
+    ]
+  },
+  {
+    "entry": [
+      "Jamnagar Government Hospital Parking",
+      "Guru Gobind Singh Government Hospital, Jamnagar, Gujarat",
+      "Jamnagar",
+      "Jamnagar",
+      "hospital",
+      "Car, Bike",
+      "Patient and visitor parking at Jamnagar's government hospital.",
+      "CCTV, Security",
+      10,
+      80,
+      1
+    ],
+    "coords": [
+      22.4732415,
+      70.0552102
+    ]
+  },
+  {
+    "entry": [
+      "Akshardham Temple Parking",
+      "Akshardham Temple, Gandhinagar, Gujarat",
+      "Gandhinagar",
+      "Gandhinagar",
+      "tourist_attraction",
+      "Car, Bike",
+      "Large dedicated visitor parking complex at Akshardham Temple, Gandhinagar.",
+      "CCTV, Security, Shaded, Wheelchair Access",
+      20,
+      150,
+      1
+    ],
+    "coords": [
+      23.2307543,
+      72.6738324
+    ]
+  },
+  {
+    "entry": [
+      "Mahatma Mandir Parking",
+      "Mahatma Mandir, Gandhinagar, Gujarat",
+      "Gandhinagar",
+      "Gandhinagar",
+      "multi_level",
+      "Car, Bike",
+      "Multi-level parking serving the Mahatma Mandir convention and exhibition centre.",
+      "CCTV, Security, Covered",
+      25,
+      180,
+      3
+    ],
+    "coords": [
+      23.2325055,
+      72.6311625
+    ]
+  },
+  {
+    "entry": [
+      "Gandhinagar Railway Station Parking",
+      "Gandhinagar Capital Railway Station, Gandhinagar, Gujarat",
+      "Gandhinagar",
+      "Gandhinagar",
+      "railway_station",
+      "Car, Bike",
+      "Park-and-ride facility outside Gandhinagar's redeveloped capital railway station.",
+      "CCTV, Security, Lighting",
+      15,
+      100,
+      2
+    ],
+    "coords": [
+      23.2348402,
+      72.6303291
+    ]
+  },
+  {
+    "entry": [
+      "Indroda Nature Park Parking",
+      "Indroda Nature Park, Gandhinagar, Gujarat",
+      "Gandhinagar",
+      "Gandhinagar",
+      "tourist_attraction",
+      "Car, Bike",
+      "Visitor parking at Indroda Nature Park and dinosaur fossil park.",
+      "Security, Shaded",
+      15,
+      100,
+      1
+    ],
+    "coords": [
+      23.1931507,
+      72.6503345
+    ]
+  },
+  {
+    "entry": [
+      "Sector 21 Municipal Parking",
+      "Sector 21, Gandhinagar, Gujarat",
+      "Gandhinagar",
+      "Gandhinagar",
+      "municipal",
+      "Car, Bike",
+      "Municipal parking lot serving Gandhinagar's Sector 21 market area.",
+      "Lighting, Security",
+      10,
+      80,
+      1
+    ],
+    "coords": [
+      23.2316541,
+      72.6645416
+    ]
+  },
+  {
+    "entry": [
+      "Amul Dairy Parking",
+      "Amul Dairy, Anand, Gujarat",
+      "Anand",
+      "Anand",
+      "private",
+      "Car, Bike",
+      "Visitor parking at the Amul Dairy (Kaira District Cooperative) complex in Anand.",
+      "Security, Shaded",
+      15,
+      100,
+      1
+    ],
+    "coords": [
+      22.5514074,
+      72.9703775
+    ]
+  },
+  {
+    "entry": [
+      "Anand Railway Station Parking",
+      "Anand Railway Station, Anand, Gujarat",
+      "Anand",
+      "Anand",
+      "railway_station",
+      "Car, Bike",
+      "Park-and-ride facility outside Anand Junction railway station.",
+      "CCTV, Security",
+      12,
+      80,
+      1
+    ],
+    "coords": [
+      22.5617213,
+      72.9659457
+    ]
+  },
+  {
+    "entry": [
+      "Anand Municipal Parking",
+      "Station Road, Anand, Gujarat",
+      "Anand",
+      "Anand",
+      "municipal",
+      "Car, Bike",
+      "Municipal parking lot near Anand's Station Road market.",
+      "Lighting",
+      10,
+      60,
+      1
+    ],
+    "coords": [
+      22.4869052,
+      73.0338876
+    ]
+  },
+  {
+    "entry": [
+      "Bharuch Railway Station Parking",
+      "Bharuch Railway Station, Bharuch, Gujarat",
+      "Bharuch",
+      "Bharuch",
+      "railway_station",
+      "Car, Bike",
+      "Park-and-ride facility outside Bharuch railway station.",
+      "CCTV, Security",
+      12,
+      80,
+      1
+    ],
+    "coords": [
+      21.7035151,
+      72.9992471
+    ]
+  },
+  {
+    "entry": [
+      "Golden Bridge Bharuch Parking",
+      "Golden Bridge, Bharuch, Gujarat",
+      "Bharuch",
+      "Bharuch",
+      "tourist_attraction",
+      "Car, Bike",
+      "Parking near the historic Golden Bridge over the Narmada river.",
+      "Lighting",
+      10,
+      70,
+      1
+    ],
+    "coords": [
+      21.6950011,
+      73.0039633
+    ]
+  },
+  {
+    "entry": [
+      "Bharuch Municipal Parking",
+      "Bharuch City, Bharuch, Gujarat",
+      "Bharuch",
+      "Bharuch",
+      "municipal",
+      "Car, Bike",
+      "Municipal parking lot in central Bharuch.",
+      "Lighting",
+      10,
+      60,
+      1
+    ],
+    "coords": [
+      21.7080427,
+      72.9956936
+    ]
+  },
+  {
+    "entry": [
+      "Girnar Ropeway Parking",
+      "Girnar Ropeway, Junagadh, Gujarat",
+      "Junagadh",
+      "Junagadh",
+      "tourist_attraction",
+      "Car, Bike",
+      "Large visitor parking at the base of Girnar hill, serving the ropeway and temple pilgrims.",
+      "Security, Shaded",
+      20,
+      120,
+      1
+    ],
+    "coords": [
+      21.5277692,
+      70.516449
+    ]
+  },
+  {
+    "entry": [
+      "Junagadh Railway Station Parking",
+      "Junagadh Railway Station, Junagadh, Gujarat",
+      "Junagadh",
+      "Junagadh",
+      "railway_station",
+      "Car, Bike",
+      "Park-and-ride facility outside Junagadh railway station.",
+      "CCTV, Security",
+      12,
+      80,
+      1
+    ],
+    "coords": [
+      21.5294132,
+      70.4578106
+    ]
+  },
+  {
+    "entry": [
+      "Diwan Chowk Municipal Parking",
+      "Diwan Chowk, Junagadh, Gujarat",
+      "Junagadh",
+      "Junagadh",
+      "municipal",
+      "Car, Bike",
+      "Municipal parking lot near Diwan Chowk in central Junagadh.",
+      "Lighting",
+      10,
+      60,
+      1
+    ],
+    "coords": [
+      21.5223465,
+      70.464262
+    ]
+  },
+  {
+    "entry": [
+      "Mehsana Railway Station Parking",
+      "Mehsana Railway Station, Mehsana, Gujarat",
+      "Mehsana",
+      "Mehsana",
+      "railway_station",
+      "Car, Bike",
+      "Park-and-ride facility outside Mehsana railway station.",
+      "CCTV, Security",
+      12,
+      80,
+      1
+    ],
+    "coords": [
+      23.6012628,
+      72.3741516
+    ]
+  },
+  {
+    "entry": [
+      "Modhera Sun Temple Parking",
+      "Modhera Sun Temple, Mehsana, Gujarat",
+      "Mehsana",
+      "Mehsana",
+      "tourist_attraction",
+      "Car, Bike",
+      "Visitor parking at the historic Sun Temple, Modhera, near Mehsana.",
+      "Security, Shaded",
+      15,
+      100,
+      1
+    ],
+    "coords": [
+      23.581665,
+      72.140412
+    ]
+  },
+  {
+    "entry": [
+      "Mehsana Municipal Parking",
+      "Mehsana City, Mehsana, Gujarat",
+      "Mehsana",
+      "Mehsana",
+      "municipal",
+      "Car, Bike",
+      "Municipal parking lot in central Mehsana.",
+      "Lighting",
+      10,
+      60,
+      1
+    ],
+    "coords": [
+      23.6017456,
+      72.3900917
+    ]
+  },
+  {
+    "entry": [
+      "Nadiad Railway Station Parking",
+      "Nadiad Railway Station, Nadiad, Gujarat",
+      "Nadiad",
+      "Kheda",
+      "railway_station",
+      "Car, Bike",
+      "Park-and-ride facility outside Nadiad Junction railway station.",
+      "CCTV, Security",
+      12,
+      80,
+      1
+    ],
+    "coords": [
+      22.6934719,
+      72.8574562
+    ]
+  },
+  {
+    "entry": [
+      "Santram Mandir Parking",
+      "Santram Mandir, Nadiad, Gujarat",
+      "Nadiad",
+      "Kheda",
+      "tourist_attraction",
+      "Car, Bike",
+      "Visitor parking near the historic Santram Mandir temple in Nadiad.",
+      "Security",
+      10,
+      70,
+      1
+    ],
+    "coords": [
+      22.6897828,
+      72.8638679
+    ]
+  },
+  {
+    "entry": [
+      "Morbi Suspension Bridge Parking",
+      "Morbi Suspension Bridge, Morbi, Gujarat",
+      "Morbi",
+      "Morbi",
+      "tourist_attraction",
+      "Car, Bike",
+      "Visitor parking near the historic Morbi suspension bridge (Jhulto Pul).",
+      "Lighting, Security",
+      15,
+      100,
+      1
+    ],
+    "coords": [
+      22.8003959,
+      70.886232
+    ]
+  },
+  {
+    "entry": [
+      "Morbi Railway Station Parking",
+      "Morbi Railway Station, Morbi, Gujarat",
+      "Morbi",
+      "Morbi",
+      "railway_station",
+      "Car, Bike",
+      "Park-and-ride facility outside Morbi railway station.",
+      "CCTV, Security",
+      10,
+      70,
+      1
+    ],
+    "coords": [
+      22.8243878,
+      70.8312683
+    ]
+  },
+  {
+    "entry": [
+      "Morbi Municipal Parking",
+      "Morbi City, Morbi, Gujarat",
+      "Morbi",
+      "Morbi",
+      "municipal",
+      "Car, Bike",
+      "Municipal parking lot in central Morbi.",
+      "Lighting",
+      10,
+      60,
+      1
+    ],
+    "coords": [
+      22.8176662,
+      70.8345928
+    ]
+  },
+  {
+    "entry": [
+      "Somnath Temple Parking",
+      "Somnath Temple, Veraval, Gujarat",
+      "Veraval",
+      "Gir Somnath",
+      "tourist_attraction",
+      "Car, Bike",
+      "Large dedicated pilgrim parking complex at the Somnath Jyotirlinga temple.",
+      "CCTV, Security, Shaded, Wheelchair Access",
+      20,
+      150,
+      1
+    ],
+    "coords": [
+      20.8877607,
+      70.4013906
+    ]
+  },
+  {
+    "entry": [
+      "Rani ki Vav Parking",
+      "Rani ki Vav, Patan, Gujarat",
+      "Patan",
+      "Patan",
+      "tourist_attraction",
+      "Car, Bike",
+      "Visitor parking at the UNESCO World Heritage stepwell, Rani ki Vav, Patan.",
+      "Security, Shaded",
+      15,
+      100,
+      1
+    ],
+    "coords": [
+      23.8589305,
+      72.10173
+    ]
+  },
+  {
+    "entry": [
+      "Dwarkadhish Temple Parking",
+      "Dwarkadhish Temple, Dwarka, Gujarat",
+      "Dwarka",
+      "Devbhumi Dwarka",
+      "tourist_attraction",
+      "Car, Bike",
+      "Large pilgrim parking area serving the Dwarkadhish Temple complex.",
+      "CCTV, Security, Shaded",
+      20,
+      150,
+      1
+    ],
+    "coords": [
+      22.2377737,
+      68.9675115
+    ]
+  },
+  {
+    "entry": [
+      "Statue of Unity Parking",
+      "Statue of Unity, Kevadia, Gujarat",
+      "Kevadia",
+      "Narmada",
+      "tourist_attraction",
+      "Car, Bike",
+      "Large multi-level visitor parking complex serving the Statue of Unity, the world's tallest statue.",
+      "CCTV, Security, Covered, EV Charging, Wheelchair Access",
+      30,
+      250,
+      2
+    ],
+    "coords": [
+      21.837977,
+      73.719164
+    ]
+  },
+  {
+    "entry": [
+      "Bhuj Airport Parking",
+      "Bhuj Rudra Mata Airport, Bhuj, Gujarat",
+      "Bhuj",
+      "Kutch",
+      "airport",
+      "Car, Bike",
+      "Passenger vehicle parking at Bhuj Airport, an AAI-operated civil enclave sharing its runway with an Indian Air Force base.",
+      "CCTV, Security",
+      30,
+      300,
+      1
+    ],
+    "coords": [
+      23.2756868,
+      69.6637455
+    ]
+  },
+  {
+    "entry": [
+      "Porbandar Airport Parking",
+      "Porbandar Airport, Porbandar, Gujarat",
+      "Porbandar",
+      "Porbandar",
+      "airport",
+      "Car, Bike",
+      "Passenger vehicle parking at Porbandar Airport, operated by the Airports Authority of India.",
+      "CCTV, Security",
+      30,
+      300,
+      1
+    ],
+    "coords": [
+      21.6505229,
+      69.6565371
+    ]
+  },
+  {
+    "entry": [
+      "Kandla Airport Parking",
+      "Kandla Airport, Gandhidham, Gujarat",
+      "Gandhidham",
+      "Kutch",
+      "airport",
+      "Car, Bike",
+      "Passenger vehicle parking at Kandla Airport, operated by the Airports Authority of India near Gandhidham.",
+      "CCTV, Security",
+      30,
+      300,
+      1
+    ],
+    "coords": [
+      23.1135071,
+      70.1030834
+    ]
+  },
+  {
+    "entry": [
+      "Keshod Airport Parking",
+      "Keshod Airport, Keshod, Gujarat",
+      "Keshod",
+      "Junagadh",
+      "airport",
+      "Car, Bike",
+      "Passenger vehicle parking at Keshod Airport, operated by the Airports Authority of India.",
+      "CCTV, Security",
+      30,
+      300,
+      1
+    ],
+    "coords": [
+      21.3148629,
+      70.2678937
+    ]
+  },
+  {
+    "entry": [
+      "Geeta Mandir GSRTC Bus Port",
+      "Geeta Mandir, Ahmedabad, Gujarat",
+      "Ahmedabad",
+      "Ahmedabad",
+      "bus_station",
+      "Car, Bike",
+      "Public vehicle parking at Geeta Mandir GSRTC Bus Port (Ahmedabad Central Bus Station), a multi-level terminus with parking across basement, ground, and upper floors.",
+      "CCTV, Security",
+      15,
+      100,
+      3
+    ],
+    "coords": [
+      23.0168301,
+      72.5909745
+    ]
+  },
+  {
+    "entry": [
+      "Gandhinagar GSRTC Central Bus Station",
+      "GH-3 Circle, Sector 11, Gandhinagar, Gujarat",
+      "Gandhinagar",
+      "Gandhinagar",
+      "bus_station",
+      "Car, Bike",
+      "Public vehicle parking at GSRTC's Central Bus Station in Gandhinagar, near GH-3 Circle, Sector 11.",
+      "CCTV, Security",
+      15,
+      100,
+      1
+    ],
+    "coords": [
+      23.2165862,
+      72.6408771
+    ]
+  },
+  {
+    "entry": [
+      "Surat Central Bus Station Parking",
+      "Surat Central Bus Station, Surat, Gujarat",
+      "Surat",
+      "Surat",
+      "bus_station",
+      "Car, Bike",
+      "Public vehicle parking at Surat GSRTC Central Bus Terminal, including a verified 2-level basement parking structure.",
+      "CCTV, Security",
+      15,
+      100,
+      2
+    ],
+    "coords": [
+      21.203924,
+      72.839859
+    ]
+  },
+  {
+    "entry": [
+      "Vadodara Central Bus Station Parking",
+      "Vadodara Central Bus Station, Vadodara, Gujarat",
+      "Vadodara",
+      "Vadodara",
+      "bus_station",
+      "Car, Bike",
+      "Public vehicle parking at Vadodara Central Bus Station, with dedicated capacity for 275 four-wheelers and 400 two-wheelers.",
+      "CCTV, Security",
+      15,
+      100,
+      2
+    ],
+    "coords": [
+      22.313531,
+      73.181417
+    ]
+  },
+  {
+    "entry": [
+      "Rajkot Central Bus Station Parking",
+      "GSRTC Central Bus Station, Dhebar Road, Rajkot, Gujarat",
+      "Rajkot",
+      "Rajkot",
+      "bus_station",
+      "Car, Bike",
+      "Public vehicle parking at Rajkot's GSRTC Central Bus Station (new bus port, opened 2020).",
+      "CCTV, Security",
+      15,
+      100,
+      1
+    ],
+    "coords": [
+      22.2910472,
+      70.802181
+    ]
+  },
+  {
+    "entry": [
+      "Bhavnagar Central Bus Station Parking",
+      "GSRTC Bus Station, Station Road, Bhavnagar, Gujarat",
+      "Bhavnagar",
+      "Bhavnagar",
+      "bus_station",
+      "Car, Bike",
+      "Public vehicle parking at Bhavnagar's GSRTC Bus Station, including a dedicated Pay & Park area for two-wheelers.",
+      "CCTV, Security",
+      15,
+      100,
+      1
+    ],
+    "coords": [
+      21.7699102,
+      72.1366728
+    ]
+  }
+]

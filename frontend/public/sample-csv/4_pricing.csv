@@ -1,0 +1,4 @@
+Parking_ID,Vehicle_Type,Price_Per_Hour,Daily_Rate
+P001,Car,30,200
+P001,Bike,15,90
+P002,Car,25,180

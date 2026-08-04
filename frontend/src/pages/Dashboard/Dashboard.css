@@ -1,0 +1,162 @@
+.dashboard {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+}
+
+.dashboard-hero {
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  background: url("/images/parking/hero-banner.jpg") center/cover;
+  position: relative;
+  min-height: 300px;
+  display: flex;
+  align-items: center;
+}
+
+.dashboard-hero-overlay {
+  background: linear-gradient(120deg, rgba(46, 12, 110, 0.88), rgba(93, 29, 226, 0.65));
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  padding: var(--space-6);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: var(--space-2);
+}
+
+.dashboard-hero-eyebrow {
+  margin: 0;
+  opacity: 0.85;
+  font-weight: 600;
+}
+
+.dashboard-hero-overlay h1 {
+  margin: 0;
+  font-size: 2.1rem;
+}
+
+.dashboard-hero-overlay h1.hidden-sm {
+  font-size: 1.3rem;
+  opacity: 0.9;
+}
+
+.dashboard-hero-overlay > p {
+  max-width: 480px;
+  opacity: 0.9;
+  margin: 4px 0 var(--space-4);
+}
+
+.dashboard-search {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  background: #fff;
+  border-radius: var(--radius-pill);
+  padding: 6px 6px 6px 20px;
+  max-width: 520px;
+  box-shadow: var(--shadow-lg);
+}
+
+.dashboard-search svg {
+  color: var(--text-faint);
+  flex-shrink: 0;
+}
+
+.dashboard-search input {
+  flex: 1;
+  border: none;
+  outline: none;
+  padding: 10px 0;
+  font-size: 0.95rem;
+  color: var(--text);
+}
+
+.dashboard-features {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: var(--space-4);
+}
+
+.feature-card {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-5) var(--space-3);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-2);
+  font-weight: 600;
+  font-size: 0.88rem;
+  color: var(--text);
+  cursor: pointer;
+  transition: transform var(--transition), box-shadow var(--transition);
+}
+.feature-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-md);
+}
+
+.feature-card-icon {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  background: var(--primary-light);
+  color: var(--primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+}
+
+.dashboard-section-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: var(--space-4);
+}
+
+.dashboard-section-head h2 {
+  margin: 0;
+  font-size: 1.15rem;
+}
+
+.link-btn {
+  background: none;
+  border: none;
+  color: var(--primary);
+  font-weight: 600;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.recent-bookings {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+.recent-booking-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--space-4);
+}
+
+.recent-booking-name {
+  font-weight: 600;
+}
+
+.recent-booking-meta {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin-top: 2px;
+}
+
+@media (max-width: 900px) {
+  .dashboard-features {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

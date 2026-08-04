@@ -1,0 +1,13 @@
+.owner-bookings-filters {
+  display: grid;
+  grid-template-columns: 2fr repeat(4, 1fr);
+  gap: var(--space-3);
+  padding: var(--space-5);
+  margin-top: var(--space-5);
+}
+
+@media (max-width: 900px) {
+  .owner-bookings-filters {
+    grid-template-columns: 1fr 1fr;
+  }
+}

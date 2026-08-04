@@ -1,0 +1,117 @@
+.sidebar {
+  width: var(--sidebar-width);
+  min-height: 100vh;
+  background: #fff;
+  border-right: 1px solid var(--border);
+  padding: var(--space-5) var(--space-4);
+  position: sticky;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+}
+
+.sidebar-logo {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  padding: 0 var(--space-2);
+}
+
+.sidebar-logo-mark {
+  width: 40px;
+  height: 40px;
+  border-radius: var(--radius-md);
+  background: var(--primary-gradient);
+  color: #fff;
+  font-weight: 800;
+  font-size: 1.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.sidebar-logo-title {
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: var(--text);
+}
+
+.sidebar-logo-sub {
+  font-size: 0.7rem;
+  color: var(--text-faint);
+}
+
+.sidebar-nav {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+}
+
+.sidebar-link {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  padding: 12px 14px;
+  border-radius: var(--radius-md);
+  color: var(--text-muted);
+  font-weight: 500;
+  font-size: 0.92rem;
+  transition: background var(--transition), color var(--transition);
+}
+
+.sidebar-icon {
+  font-size: 1.15rem;
+  flex-shrink: 0;
+}
+
+.sidebar-link:hover {
+  background: var(--primary-light);
+  color: var(--primary-dark);
+}
+
+.sidebar-link.active {
+  background: var(--primary-gradient);
+  color: #fff;
+  box-shadow: 0 8px 18px rgba(125, 53, 255, 0.3);
+}
+
+@media (max-width: 900px) {
+  .sidebar {
+    position: fixed;
+    z-index: 40;
+    left: 0;
+    bottom: 0;
+    top: auto;
+    width: 100%;
+    min-height: auto;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: var(--space-2);
+    border-right: none;
+    border-top: 1px solid var(--border);
+  }
+  .sidebar-logo {
+    display: none;
+  }
+  .sidebar-nav {
+    flex-direction: row;
+    width: 100%;
+    justify-content: flex-start;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  .sidebar-link {
+    flex-direction: column;
+    flex-shrink: 0;
+    gap: 2px;
+    padding: 6px 10px;
+    font-size: 0.62rem;
+    text-align: center;
+  }
+  .sidebar-link span {
+    white-space: nowrap;
+  }
+}

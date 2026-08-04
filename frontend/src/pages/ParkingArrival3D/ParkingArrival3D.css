@@ -1,0 +1,9 @@
+.parking-arrival h1 {
+  margin-bottom: 2px;
+}
+
+.arrival-actions {
+  display: flex;
+  gap: var(--space-3);
+  margin-top: var(--space-5);
+}

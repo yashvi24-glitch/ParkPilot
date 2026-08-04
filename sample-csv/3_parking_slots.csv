@@ -1,0 +1,7 @@
+Slot_ID,Parking_ID,Floor_ID,Slot_Number,Vehicle_Type,Slot_Status
+S1,P001,F1,A1,Car,Available
+S2,P001,F1,A2,Car,Available
+S3,P001,F1,B1,Bike,Available
+S4,P001,F2,C1,Car,Maintenance
+S1,P002,F1,A1,Car,Available
+S2,P002,F1,A2,Car,Reserved

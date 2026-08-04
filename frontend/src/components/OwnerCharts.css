@@ -1,0 +1,59 @@
+.owner-chart-card {
+  padding: var(--space-6);
+}
+
+.owner-chart-card h3 {
+  font-size: 1.05rem;
+  margin-bottom: 2px;
+}
+
+.owner-chart-empty {
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-faint);
+  font-size: 0.9rem;
+}
+
+.owner-chart-tooltip {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: var(--space-2) var(--space-3);
+  box-shadow: var(--shadow-md);
+  font-size: 0.85rem;
+}
+
+.owner-chart-tooltip-label {
+  color: var(--text-muted);
+  margin-bottom: 2px;
+}
+
+.owner-chart-tooltip-value {
+  color: var(--text);
+  font-weight: 700;
+}
+
+.owner-chart-legend {
+  display: flex;
+  justify-content: center;
+  gap: var(--space-4);
+  margin-top: var(--space-2);
+  flex-wrap: wrap;
+}
+
+.owner-chart-legend-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.owner-chart-legend-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  display: inline-block;
+}

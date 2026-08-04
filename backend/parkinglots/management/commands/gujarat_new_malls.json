@@ -1,0 +1,135 @@
+[
+  {
+    "entry": [
+      "Palladium Mall Parking",
+      "Palladium Mall, Vastrapur, Ahmedabad, Gujarat",
+      "Ahmedabad",
+      "Ahmedabad",
+      "mall",
+      "Car, Bike",
+      "Upscale multi-level covered parking at Palladium Mall, Vastrapur.",
+      "CCTV, Security, Covered, Valet",
+      35,
+      220,
+      3
+    ],
+    "coords": [
+      23.0400861,
+      72.5290418
+    ]
+  },
+  {
+    "entry": [
+      "Iscon Mega Mall Parking",
+      "Iscon Mega Mall, SG Highway, Ahmedabad, Gujarat",
+      "Ahmedabad",
+      "Ahmedabad",
+      "mall",
+      "Car, Bike",
+      "Large covered parking complex at Iscon Mega Mall on SG Highway.",
+      "CCTV, Security, Covered",
+      30,
+      200,
+      3
+    ],
+    "coords": [
+      23.1141806,
+      72.5363076
+    ]
+  },
+  {
+    "entry": [
+      "Acropolis Mall Parking",
+      "Acropolis Mall, Thaltej, Ahmedabad, Gujarat",
+      "Ahmedabad",
+      "Ahmedabad",
+      "mall",
+      "Car, Bike",
+      "Covered multi-level parking serving Acropolis Mall, Thaltej.",
+      "CCTV, Security, Covered",
+      30,
+      200,
+      2
+    ],
+    "coords": [
+      23.0489508,
+      72.5159909
+    ]
+  },
+  {
+    "entry": [
+      "City Gold Parking",
+      "City Gold Cinema, Ashram Road, Ahmedabad, Gujarat",
+      "Ahmedabad",
+      "Ahmedabad",
+      "private",
+      "Car, Bike",
+      "Private parking serving the City Gold multiplex on Ashram Road.",
+      "CCTV, Security",
+      25,
+      150,
+      1
+    ],
+    "coords": [
+      23.0507979,
+      72.572722
+    ]
+  },
+  {
+    "entry": [
+      "Rahul Raj Mall Parking",
+      "Rahul Raj Mall, Adajan, Surat, Gujarat",
+      "Surat",
+      "Surat",
+      "mall",
+      "Car, Bike",
+      "Multi-level covered parking at Rahul Raj Mall, Adajan.",
+      "CCTV, Security, Covered",
+      30,
+      200,
+      3
+    ],
+    "coords": [
+      21.2651204,
+      72.8499128
+    ]
+  },
+  {
+    "entry": [
+      "Junction Mall Parking",
+      "Junction Mall, Surat, Gujarat",
+      "Surat",
+      "Surat",
+      "mall",
+      "Car, Bike",
+      "Covered parking at Junction Mall, Surat.",
+      "CCTV, Security, Covered",
+      25,
+      180,
+      2
+    ],
+    "coords": [
+      21.1371079,
+      72.788677
+    ]
+  },
+  {
+    "entry": [
+      "Centre Square Mall Parking",
+      "Centre Square Mall, Fatehgunj, Vadodara, Gujarat",
+      "Vadodara",
+      "Vadodara",
+      "mall",
+      "Car, Bike",
+      "Multi-level covered parking at Centre Square Mall, Fatehgunj.",
+      "CCTV, Security, Covered",
+      25,
+      180,
+      2
+    ],
+    "coords": [
+      22.3239466,
+      73.1885379
+    ]
+  }
+]

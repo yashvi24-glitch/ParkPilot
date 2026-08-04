@@ -1,0 +1,41 @@
+.owner-payments-history {
+  margin-top: var(--space-5);
+  padding: var(--space-6);
+}
+
+.owner-payments-history-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--space-4);
+  flex-wrap: wrap;
+}
+
+.owner-payments-history-filters {
+  display: flex;
+  gap: var(--space-3);
+  flex-wrap: wrap;
+}
+
+.owner-payments-history-filters .input {
+  min-width: 200px;
+}
+
+.owner-payment-config {
+  margin-top: var(--space-5);
+  padding: var(--space-6);
+}
+
+.owner-payment-config h2 {
+  margin-bottom: 2px;
+}
+
+.owner-qr-preview {
+  width: 120px;
+  height: 120px;
+  object-fit: contain;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  margin-bottom: var(--space-2);
+  display: block;
+}

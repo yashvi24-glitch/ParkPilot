@@ -1,0 +1,52 @@
+.owner-revenue-grid {
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+}
+
+.owner-dashboard-empty {
+  margin-top: var(--space-6);
+}
+
+.owner-live-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: var(--space-4);
+  margin-top: var(--space-5);
+}
+
+.owner-live-card {
+  padding: var(--space-5);
+}
+
+.owner-live-card h3 {
+  font-size: 1rem;
+  margin-bottom: var(--space-3);
+}
+
+.owner-live-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+  gap: var(--space-3);
+}
+
+.owner-live-stat {
+  text-align: center;
+  padding: var(--space-2);
+  border-radius: var(--radius-sm);
+  background: var(--bg);
+}
+
+.owner-live-stat strong {
+  display: block;
+  font-size: 1.2rem;
+  color: var(--text);
+}
+
+.owner-live-stat span {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+}
+
+.owner-live-stat.available strong { color: var(--success); }
+.owner-live-stat.occupied strong { color: var(--primary-dark); }
+.owner-live-stat.reserved strong { color: var(--warning); }
+.owner-live-stat.maintenance strong { color: var(--danger); }

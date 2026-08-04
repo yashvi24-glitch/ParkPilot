@@ -1,0 +1,4 @@
+Parking_ID,Parking_Name,Parking_Category,Parking_Type,Address,City,District,State,Pincode,Latitude,Longitude,Opening_Time,Closing_Time,Total_Capacity,Vehicle_Types,Price_Per_Hour,Contact_Number,Description,Parking_Image_URL
+P001,Example Riverside Mall Parking,Mall,Slot-Based Parking,12 Riverside Road,Ahmedabad,Ahmedabad,Gujarat,380001,23.0300,72.5800,09:00,22:00,,"Car, Bike",30,9876500001,Example multi-level mall parking lot (sample data),
+P002,Example City Hospital Parking,Hospital,Slot-Based Parking,45 Health Avenue,Ahmedabad,Ahmedabad,Gujarat,380006,23.0400,72.5500,00:00,23:59,,"Car, Bike",20,9876500002,Example hospital visitor parking (sample data),
+P003,Example Residency Open Yard,Residential,Open Ground Parking,7 Residency Lane,Surat,Surat,Gujarat,395001,21.1700,72.8300,06:00,23:00,20,"Car, Bike",15,9876500003,Example open-ground residential parking (sample data),

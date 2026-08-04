@@ -1,0 +1,16 @@
+.owner-profile-section {
+  padding: var(--space-6);
+  margin-bottom: var(--space-5);
+}
+
+.owner-profile-section h2 {
+  margin-bottom: var(--space-4);
+}
+
+.owner-profile-stats {
+  margin-bottom: 0;
+}
+
+.owner-logout-btn {
+  margin-top: var(--space-5);
+}

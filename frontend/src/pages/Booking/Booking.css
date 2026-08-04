@@ -1,0 +1,293 @@
+.booking-wizard {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.booking-header {
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+  padding: var(--space-4);
+  margin-bottom: var(--space-5);
+}
+
+.booking-header img {
+  width: 88px;
+  height: 68px;
+  object-fit: cover;
+  border-radius: var(--radius-md);
+}
+
+.booking-header h2 {
+  margin: 0 0 2px;
+  font-size: 1.05rem;
+}
+.booking-header p {
+  margin: 0;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
+/* Step indicator */
+.wizard-steps {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: var(--space-5);
+  overflow-x: auto;
+  gap: var(--space-1);
+}
+
+.wizard-step {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  flex: 1;
+  min-width: 72px;
+}
+
+.wizard-step-dot {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: #fff;
+  border: 2px solid var(--border);
+  color: var(--text-faint);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.82rem;
+}
+
+.wizard-step.active .wizard-step-dot {
+  background: var(--primary-gradient);
+  border-color: transparent;
+  color: #fff;
+}
+
+.wizard-step.done .wizard-step-dot {
+  background: var(--success);
+  border-color: transparent;
+  color: #fff;
+}
+
+.wizard-step-label {
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: var(--text-faint);
+  text-align: center;
+  white-space: nowrap;
+}
+.wizard-step.active .wizard-step-label {
+  color: var(--primary-dark);
+}
+.wizard-step.done .wizard-step-label {
+  color: var(--success);
+}
+
+.wizard-panel {
+  padding: var(--space-5);
+  margin-bottom: var(--space-4);
+}
+.wizard-panel h3 {
+  margin-top: 0;
+}
+
+.wizard-nav {
+  display: flex;
+  justify-content: flex-end;
+  gap: var(--space-3);
+}
+
+.wizard-nav-next {
+  min-width: 180px;
+}
+
+.wizard-duration-box {
+  background: var(--primary-light);
+  color: var(--primary-dark);
+  padding: var(--space-3) var(--space-4);
+  border-radius: var(--radius-md);
+  font-size: 0.9rem;
+}
+
+.wizard-vehicle-type {
+  width: auto;
+  flex-shrink: 0;
+}
+
+.booking-floor-tabs {
+  display: flex;
+  gap: var(--space-2);
+  margin-bottom: var(--space-4);
+  overflow-x: auto;
+}
+
+.booking-floor-tab {
+  padding: 8px 18px;
+  border-radius: var(--radius-pill);
+  border: 1.5px solid var(--border);
+  background: #fff;
+  font-weight: 600;
+  font-size: 0.85rem;
+  white-space: nowrap;
+  cursor: pointer;
+  color: var(--text-muted);
+}
+.booking-floor-tab.active {
+  background: var(--primary-gradient);
+  color: #fff;
+  border-color: transparent;
+}
+
+.add-vehicle-form {
+  margin-top: var(--space-2);
+}
+.add-vehicle-row {
+  display: flex;
+  gap: var(--space-2);
+}
+.add-vehicle-row .input {
+  flex: 1;
+}
+
+.booking-time-hint {
+  font-size: 0.78rem;
+  color: var(--text-faint);
+  margin: -8px 0 var(--space-4);
+}
+
+/* Payment step */
+.payment-summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--space-4) var(--space-5);
+  margin-bottom: var(--space-5);
+  border-radius: var(--radius-lg);
+  background: var(--primary-gradient);
+  color: #fff;
+}
+
+.payment-summary-name {
+  font-weight: 700;
+}
+
+.payment-summary-meta {
+  font-size: 0.8rem;
+  opacity: 0.9;
+  margin-top: 2px;
+}
+
+.payment-summary-amount {
+  font-size: 1.4rem;
+  font-weight: 800;
+}
+
+.payment-methods {
+  display: flex;
+  gap: var(--space-2);
+  overflow-x: auto;
+  margin-bottom: var(--space-4);
+  padding-bottom: 2px;
+}
+
+.payment-method-tab {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
+  padding: 10px 16px;
+  border-radius: var(--radius-pill);
+  border: 1.5px solid var(--border);
+  background: #fff;
+  font-weight: 600;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  cursor: pointer;
+}
+
+.payment-method-tab.active {
+  background: var(--primary-gradient);
+  color: #fff;
+  border-color: transparent;
+}
+
+.payment-method-panel {
+  padding: var(--space-5);
+  min-height: 140px;
+}
+
+.payment-hint {
+  font-size: 0.8rem;
+  color: var(--text-faint);
+  margin: var(--space-2) 0 0;
+}
+
+.payment-qr {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: var(--space-3) 0;
+}
+
+.payment-qr-box {
+  width: 160px;
+  height: 160px;
+  border-radius: var(--radius-md);
+  background: repeating-conic-gradient(#1e1b2e 0% 25%, #fff 0% 50%) 0 0 / 20px 20px;
+  border: 6px solid #1e1b2e;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 2.5rem;
+  margin-bottom: var(--space-3);
+}
+.payment-qr-box svg {
+  background: #1e1b2e;
+  border-radius: 8px;
+  padding: 8px;
+}
+
+.payment-qr-image {
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border);
+  background: #fff;
+  padding: var(--space-3);
+  margin-bottom: var(--space-3);
+}
+
+.qr-confirm-check {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text);
+  margin-top: var(--space-3);
+  cursor: pointer;
+}
+
+.payment-card-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.payment-secure-note {
+  text-align: center;
+  font-size: 0.78rem;
+  color: var(--text-faint);
+  margin-top: var(--space-4);
+}
+
+@media (max-width: 700px) {
+  .wizard-step-label {
+    display: none;
+  }
+}

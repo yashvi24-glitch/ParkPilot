@@ -1,0 +1,4 @@
+Floor_ID,Parking_ID,Floor_Name,Total_Slots
+F1,P001,Ground Floor,10
+F2,P001,Basement 1,8
+F1,P002,Ground Floor,6

@@ -1,0 +1,166 @@
+/* Shared across Owner Portal pages (Dashboard, Bookings, Payments, Reports) */
+
+.owner-stat-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: var(--space-4);
+  margin-top: var(--space-5);
+}
+
+.owner-stat-card {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+}
+
+.owner-stat-icon {
+  flex-shrink: 0;
+  width: 46px;
+  height: 46px;
+  border-radius: var(--radius-md);
+  background: var(--primary-light);
+  color: var(--primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.25rem;
+}
+
+.owner-stat-icon.revenue { background: var(--success-bg); color: var(--success); }
+.owner-stat-icon.warning { background: var(--warning-bg); color: var(--warning); }
+.owner-stat-icon.danger { background: var(--danger-bg); color: var(--danger); }
+
+.owner-stat-value {
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.owner-stat-label {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+
+/* Sortable/filterable data tables (Bookings, Payment History) */
+.owner-bookings-table-wrap {
+  margin-top: var(--space-5);
+  padding: 0;
+  overflow-x: auto;
+}
+
+.owner-bookings-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+  white-space: nowrap;
+}
+
+.owner-bookings-table th {
+  text-align: left;
+  padding: var(--space-3) var(--space-4);
+  color: var(--text-muted);
+  border-bottom: 1px solid var(--border);
+  user-select: none;
+}
+
+.owner-bookings-table th.sortable {
+  cursor: pointer;
+}
+
+.owner-bookings-table th.sortable:hover {
+  color: var(--primary-dark);
+}
+
+.owner-bookings-table th svg {
+  vertical-align: middle;
+  margin-left: 2px;
+}
+
+.owner-bookings-table td {
+  padding: var(--space-3) var(--space-4);
+  border-bottom: 1px solid var(--border);
+}
+
+.owner-dashboard-section-title {
+  margin-top: var(--space-7);
+  font-size: 1.1rem;
+}
+
+/* Chart time-range switcher (Payments revenue, Reports charts) */
+.owner-range-row {
+  display: flex;
+  gap: var(--space-2);
+  margin-top: var(--space-6);
+  margin-bottom: var(--space-3);
+}
+
+.owner-range-btn {
+  padding: 6px 16px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border);
+  background: #fff;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  cursor: pointer;
+}
+
+.owner-range-btn.active {
+  background: var(--primary-light);
+  border-color: var(--primary);
+  color: var(--primary-dark);
+}
+
+.owner-charts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  gap: var(--space-5);
+  margin-top: var(--space-5);
+}
+
+/* Modal (booking detail, etc.) */
+.owner-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(30, 27, 46, 0.45);
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--space-6) var(--space-4);
+  overflow-y: auto;
+  z-index: 100;
+}
+
+.owner-modal {
+  position: relative;
+  width: 100%;
+  max-width: 520px;
+  padding: var(--space-6);
+  margin-top: var(--space-6);
+}
+
+.owner-modal-close {
+  position: absolute;
+  top: var(--space-4);
+  right: var(--space-4);
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: none;
+  background: var(--bg);
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.owner-modal-actions {
+  display: flex;
+  gap: var(--space-3);
+  margin-top: var(--space-5);
+}
+
+.owner-modal-actions .btn {
+  flex: 1;
+}
